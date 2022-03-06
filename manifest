@@ -11,7 +11,7 @@ package_sets:
 # Layout. Note that the rock.base and orocos.toolchain sets are
 # imported by other rock sets.
 layout:
-   - rock.core
+   #- rock.core
    - tools/pocolog_pybind
    - tools/e2calib
    # Uncomment to enable the Rock/ROS bridge
